@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="viewpager_margin_fix">20dp</dimen>
+    <dimen name="viewpager_margin">-40dp</dimen>
+</resources>
